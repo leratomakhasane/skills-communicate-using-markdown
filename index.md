@@ -7,3 +7,6 @@ print("I love learning practical skills")
 print("I value continuous learning")
 ```
 
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
